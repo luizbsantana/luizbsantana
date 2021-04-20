@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋    
+    
+    I am Luiz, nice to e-meet you :D
+    Development Analyst @ Gera
+    
+    - Full Stack Developer
+    - .NET Core
+    - Angular
+    - Soccer, American Football & Basketball big fan
+    - Traveling Lover 
 
-<!--
-**luizbsantana/luizbsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:luizsantana725@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luiz-santana-053928152/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luizb_santana/) 
