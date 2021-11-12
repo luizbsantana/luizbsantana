@@ -1,7 +1,7 @@
 ### Hi there 👋    
     
     I am Luiz, nice to e-meet you :D
-    Development Analyst @ Gera
+    Development Analyst @ UZZO Pay
     
     - Full Stack Developer
     - .NET Core
