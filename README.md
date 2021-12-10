@@ -1,11 +1,10 @@
 ### Hi there 👋    
     
     I am Luiz, nice to e-meet you :D
-    Development Analyst @ UZZO Pay
+    Backend Developer
     
-    - Full Stack Developer
     - .NET Core
-    - Angular
+    - Angular 7+
     - Soccer, American Football & Basketball big fan
     - Traveling Lover 
 
